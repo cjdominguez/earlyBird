@@ -28,17 +28,16 @@ _Find a new way to wake up with EarlyBird._
 
 
 #### Functionality ####
-* Basic functionality is to allow the user to create an account
-  * Or sign in
+*  Basic functionality is to allow the user to create an account 
+   *  Or sign in
 *	Make alarms
-*	Set alarms
 *	Delete alarms
 *	Edit alarms
 *	Check alarms existence and ensure its properly setup to the users liking 
 *	Each alarm will allow the user to 
-  *  Set alarm time
-  *	Set sunrise and when it will play prior to the wake up
-  *	and set alarm sound 
+    *  Set alarm time
+    *  Set sunrise and when it will play prior to the wake up
+    *  and set alarm sound 
 
 
 
