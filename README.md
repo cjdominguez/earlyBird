@@ -7,6 +7,8 @@ _Find a new way to wake up with EarlyBird._
 -Idea: Create an alarm clock that wakes the user up from sleep more naturally and effectively than a traditional alarm clock.
 
 -Mobile Distribution: Android
+
+
 #### Early Birds Alarm Clock ####
 
 *	To start the alarm process Early Bird concurrently creates a natural sunrise on the users screen and plays natural sounds. This process begins to play 30 minutes prior to the users desired wake up time. The simulated sunrise turns on and so does a natural song like tune of the user’s choice. Gradually as the 30 minutes winds down to the users chosen wake up time the brightness on the screen (our simulated sunrise) and the natural sounds increase to 100 percent volume and brightness, starting from 10%. 
@@ -14,9 +16,14 @@ _Find a new way to wake up with EarlyBird._
 *	Speaking from personal experience, I am a heavy sleeper and have found that waking up prior to my actual wake up time helps me get through the groggy feeling/stage of when I must wake up. This application will improve this dilemma by allowing the user to wake up without feeling as tired and groggy. 
 
 
+***
+
+
+
 #### Project Description ####
 
 * 	Early Bird is a reconceptualized alarm clock application for Android. Early Bird’s central functionally is to awaken the user from sleep more naturally than a traditional alarm clock. The Early Bird alarm clock aids everyone from early risers, heavy sleepers and just the regular person trying to wake up on time. This is accomplished by approaching thew problem of waking up from a distinctly different philosophical belief than most alarm clocks.
+
 
 
 #### Problem Addressing  ####
@@ -46,6 +53,7 @@ _Find a new way to wake up with EarlyBird._
     *  and set alarm sound 
 
 
+***
 
 #### Design (WireFrame) ####
 ![image](https://user-images.githubusercontent.com/62302534/143094174-5089383b-5b6d-420c-9a59-e5eaa051c78b.png)
