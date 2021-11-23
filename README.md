@@ -11,9 +11,9 @@ _Find a new way to wake up with EarlyBird._
 
 #### Early Birds Alarm Clock ####
 
-*	To start the alarm process Early Bird concurrently creates a natural sunrise on the users screen and plays natural sounds. This process begins to play 30 minutes prior to the users desired wake up time. The simulated sunrise turns on and so does a natural song like tune of the user’s choice. Gradually as the 30 minutes winds down to the users chosen wake up time the brightness on the screen (our simulated sunrise) and the natural sounds increase to 100 percent volume and brightness, starting from 10%. 
+*	To start the alarm process Early Bird concurrently creates a natural sunrise on the users screen and plays natural sounds. This process begins to play 30 minutes prior to the users desired wake up time. The simulated sunrise turns on and so does a natural song like tune of the user’s choice. Gradually as the 30 minutes winds down to the users chosen wake up time the brightness on the screen (our simulated sunrise) and the natural sounds increase gradually to 100 percent volume and brightness, starting from an intial 10%. 
 *	This process allows the user to gradually wake up from the sleep eliminating the groggy feeling and increases the frequency and likelihood that the intended user indeed will wake up.
-*	Speaking from personal experience, I am a heavy sleeper and have found that waking up prior to my actual wake up time helps me get through the groggy feeling/stage of when I must wake up. This application will improve this dilemma by allowing the user to wake up without feeling as tired and groggy. 
+*	Speaking from personal experience, I am a heavy sleeper and have found that waking up prior to my actual wake up time helps me get through the groggy feeling/stage of when I must wake up. This application will remove this dilemma by allowing the user to wake up without feeling as tired and groggy. 
 
 
 ***
